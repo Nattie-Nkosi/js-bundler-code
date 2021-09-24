@@ -11,8 +11,10 @@
 - [Axios](https://www.npmjs.com/package/axios) *to fetch npm parkages*
 
 ## Requirements and how to use it
-- Create react app `npx create-react-app <appname> --template typescript`
-- Create bundler folder and include it inside src folder
+- Create react app `npx create-react-app <appname> --template typescript` or
+- Create angular app `npm install -g @angular/cli` or
+- Create vue app `vue create my-project-name`
+- Create bundler folder and include it inside src folder.
 
 
 
