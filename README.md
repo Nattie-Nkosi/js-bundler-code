@@ -8,7 +8,7 @@
 ## Tech Stack used
 - TypeScript
 - [Esbuild](https://esbuild.github.io/) *An extremely fast javascript bundler*
-- axios *to fetch npm parkages*
+- [Axios](https://www.npmjs.com/package/axios) *to fetch npm parkages*
 
 ## Requirements and how to use it
 - Create react app `npx create-react-app <appname> --template typescript`
